@@ -1,0 +1,3 @@
+/home/c/Desktop/263715/Snake-2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/c/Desktop/263715/Snake-2022/cmake-build-debug/CMakeFiles/Snake.dir
+/home/c/Desktop/263715/Snake-2022/cmake-build-debug/CMakeFiles/edit_cache.dir

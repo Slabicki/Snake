@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/c/Desktop/263715/Snake-2022/Snake.cpp
+iostream
+-
+Snake.h
+/home/c/Desktop/263715/Snake-2022/Snake.h
+
+/home/c/Desktop/263715/Snake-2022/Snake.h
+
+/home/c/Desktop/263715/Snake-2022/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+/home/c/Desktop/263715/Snake-2022/SFML/Graphics.hpp
+Snake.h
+/home/c/Desktop/263715/Snake-2022/Snake.h
+
